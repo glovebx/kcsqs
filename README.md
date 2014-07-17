@@ -5,3 +5,7 @@ kcsqs
 
 声明：该程序完全从张宴的httpsqs复制，原始项目地址：https://code.google.com/p/httpsqs/
 除了启动端口默认为1228之外，其余命令完全一致。
+
+
+部分参考文档：
+http://study.byoou.com/%E9%AB%98%E6%80%A7%E8%83%BDNosql%E6%95%B0%E6%8D%AE%E5%BA%93Tokyo-Cabinet%E7%9A%84%E5%85%84%E5%BC%9FKyoto-Cabinet%E4%BB%8B%E7%BB%8D-.html
