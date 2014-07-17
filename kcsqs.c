@@ -1,5 +1,6 @@
 /*
-HTTP Simple Queue Service - kcsqs v1.0
+HTTP Simple Queue Service Based On Kyotocabinet - kcsqs v1.0
+Author: glovebx，Modified from httpsqs v1.7
 Author: Zhang Yan (http://blog.s135.com), E-mail: net@s135.com
 This is free software, and you are welcome to modify and redistribute it under the New BSD License
 */
