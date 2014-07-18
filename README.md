@@ -9,3 +9,9 @@ kcsqs
 
 部分参考文档：
 http://study.byoou.com/%E9%AB%98%E6%80%A7%E8%83%BDNosql%E6%95%B0%E6%8D%AE%E5%BA%93Tokyo-Cabinet%E7%9A%84%E5%85%84%E5%BC%9FKyoto-Cabinet%E4%BB%8B%E7%BB%8D-.html
+
+Kyoto Cabinet 基本规格书
+http://han.guokai.blog.163.com/blog/static/13671827120112279177670/
+
+KyotoCabinet和tokyo cabinet比较的译文
+http://blog.sina.com.cn/s/blog_5459f60d01012sud.html
