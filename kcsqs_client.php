@@ -30,7 +30,7 @@ class kcsqs
         private $kcsqs_auth;
         private $kcsqs_charset;
         
-        public function __construct($host='127.0.0.1', $port=1228, $auth='', $charset='utf-8') {
+        public function __construct($host='121.199.7.3', $port=1228, $auth='', $charset='utf-8') {
                 $this->kcsqs_host = $host;
                 $this->kcsqs_port = $port;
                 $this->kcsqs_auth = $auth;
