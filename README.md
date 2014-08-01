@@ -15,3 +15,6 @@ http://han.guokai.blog.163.com/blog/static/13671827120112279177670/
 
 KyotoCabinet和tokyo cabinet比较的译文
 http://blog.sina.com.cn/s/blog_5459f60d01012sud.html
+
+DBM的直截了当地实现
+http://article.yeeyan.org/article/article/article/index.php?url=/articles/view/123273/73796
